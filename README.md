@@ -11,7 +11,7 @@
 <p>This project was completed following specific instructions provided by freeCodeCamp, which included incorporating certain pieces of code.</p>
 
 <h3>Other Projects</h3>
-<p>In addition to the survey form, I have also completed the following projects as part of the Responsive Web Design Certification:</p>
+<p>In addition to the tribute page, I have also completed the following projects as part of the Responsive Web Design Certification:</p>
 
 <ul>
   <li>Survey Page</li>
