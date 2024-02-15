@@ -1,11 +1,11 @@
 <h1>freeCodeCamp | Responsive Web Design Certification</h1>
 
-<p>This repository contains my project completed as part of the Responsive Web Design Certification from <a href="https://github.com/freeCodeCamp">freeCodeCamp</a>.</p>
+<p>This repository contains my project completed as part of the <a href="https://www.freecodecamp.org/certification/sukis/responsive-web-design">Responsive Web Design Certification</a> from <a href="https://github.com/freeCodeCamp">freeCodeCamp</a>.</p>
 
 <h2>Tribute Page Project</h2>
 
 <h3>Description:</h3>
-<p>The Tribute Page project celebrates the timeless masterpiece "Girl with a Pearl Earring." Through creative use of CSS animations, I've breathed new life into this iconic painting, offering a contemporary interpretation that honors its enduring beauty and cultural significance.</p>
+<p>The Tribute Page Project celebrates the timeless masterpiece "Girl with a Pearl Earring." Through creative use of CSS animations, I've breathed new life into this iconic painting, offering a contemporary interpretation that honors its enduring beauty and cultural significance.</p>
 
 <h3>Intructions:</h3>
 <p>This project was completed following specific instructions provided by freeCodeCamp, which included incorporating certain pieces of code.</p>
